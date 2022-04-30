@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zarathacia
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning the basics
+- 👀 I’m interested in AI applications in software engineering
+- 🌱 I’m currently an engineering student
 - 📫 How to reach me https://www.linkedin.com/in/ben-slimen-aya-694664174/ 
 
 <!---
