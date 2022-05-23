@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zarathacia
 - 👀 I’m interested in AI applications in software engineering
 - 🌱 I’m currently an engineering student
-- 📫 How to reach me https://www.linkedin.com/in/ben-slimen-aya-694664174/ 
+- 📫 How to reach me [https://www.linkedin.com/in/ben-slimen-aya/ ](https://www.linkedin.com/in/ben-slimane-eya/)
 
 <!---
 zarathacia/zarathacia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
