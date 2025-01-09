@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zarathacia
 - 👀 I’m interested in AI applications in software engineering
-- 🌱 I’m currently an engineering student
+- 🌱 I’m currently a Research Engineer
 - 📫 How to reach me [https://www.linkedin.com/in/ben-slimane-eya/ ](https://www.linkedin.com/in/ben-slimane-eya/)
 
 <!---
